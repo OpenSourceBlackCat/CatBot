@@ -1,0 +1,26 @@
+{
+  "name": "catbot",
+  "version": "1.0.0",
+  "description": "VoiceBotForDiscord",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OpenSourceBlackCat/CatBot.git"
+  },
+  "keywords": [
+    "voicebot"
+  ],
+  "author": "Ameya Gurjar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OpenSourceBlackCat/CatBot/issues"
+  },
+  "homepage": "https://github.com/OpenSourceBlackCat/CatBot#readme",
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1"
+  }
+}
